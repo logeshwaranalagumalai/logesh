@@ -1,1 +1,1 @@
-const ex=10
+const ex=100000
