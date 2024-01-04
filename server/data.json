@@ -1,0 +1,282 @@
+[
+   {
+      "coursecontentid":"58026e29-4561-4b3b-adc6-c3b1bc179039",
+      "parentcoursecontentid":null,
+      "name":"UNIT 1",
+      "createddate":1702371576959,
+      "checked":false,
+      "children":[
+         {
+            "coursecontentid":"72809702-8e97-4756-a7b1-fa0c8beb6532",
+            "parentcoursecontentid":"58026e29-4561-4b3b-adc6-c3b1bc179039",
+            "name":"Management",
+            "createddate":1702371625888,
+            "checked":false,
+            "children":[
+               {
+                  "coursecontentid":"296ecb3b-a884-4e7e-8f36-123076faa779",
+                  "parentcoursecontentid":"72809702-8e97-4756-a7b1-fa0c8beb6532",
+                  "name":"Development  of  Management  Thought",
+                  "createddate":1702371654773,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"7c62e57b-7189-4e3d-adc5-6fc942455088",
+                        "parentcoursecontentid":"296ecb3b-a884-4e7e-8f36-123076faa779",
+                        "name":"(Techniques  of  scientific  management  (Functional \nforemanship,  Standardization  and  simplification  of  work,  Work  study,  Differential  piece  wage \nsystem) - Principles of Management by F.W Taylor(Science is not rule of thumb, Harmony - Not \ndiscord,  Co-operation,  Not  individualism,  Development  of  each  and  every  person.)  -  Principles of  Management  by  Henry  Fayol(14  principles),)",
+                        "createddate":1702371698358,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "coursecontentid":"fb6d5847-6dfb-48b8-91fe-6ad8eccf887c",
+                  "parentcoursecontentid":"72809702-8e97-4756-a7b1-fa0c8beb6532",
+                  "name":"levels  of  management",
+                  "createddate":1702371743926,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"04347378-4cb2-49ae-ba64-391947b10d69",
+                        "parentcoursecontentid":"fb6d5847-6dfb-48b8-91fe-6ad8eccf887c",
+                        "name":"(Management: Introduction of management (Meaning, Features, Importance of management, \nManagement vs Administration) - Functions of Management (Functions: Planning, Organizing, )",
+                        "createddate":1702371876827,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "coursecontentid":"d4477b4d-07eb-4138-8eca-6c283e0886c3",
+      "parentcoursecontentid":null,
+      "name":"UNIT 2",
+      "createddate":1702371576975,
+      "checked":false,
+      "children":[
+         {
+            "coursecontentid":"8b05f282-97b8-4e0e-a2c3-15050e941994",
+            "parentcoursecontentid":"d4477b4d-07eb-4138-8eca-6c283e0886c3",
+            "name":"Planning",
+            "createddate":1702371962865,
+            "checked":false,
+            "children":[
+               {
+                  "coursecontentid":"9877ed86-44dc-4666-8697-24d110234775",
+                  "parentcoursecontentid":"8b05f282-97b8-4e0e-a2c3-15050e941994",
+                  "name":"Organizational plans",
+                  "createddate":1702371986911,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"a06e5897-68c8-4dd4-848c-ccaec893edf6",
+                        "parentcoursecontentid":"9877ed86-44dc-4666-8697-24d110234775",
+                        "name":"(Introduction (Meaning, Features and Types) – Process (Specific objectives to results (7steps)) - Effective decision and guidelines for making effective decision (Action oriented, Goal oriented, Efficiency in implementation )",
+                        "createddate":1702372095611,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "coursecontentid":"d1e7e692-3015-4da7-a1b7-5fb530a6aab0",
+                  "parentcoursecontentid":"8b05f282-97b8-4e0e-a2c3-15050e941994",
+                  "name":"Decision –Making",
+                  "createddate":1702372003057,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"39fab6de-6b92-4924-9291-9dbdf50a4843",
+                        "parentcoursecontentid":"d1e7e692-3015-4da7-a1b7-5fb530a6aab0",
+                        "name":"Introduction to MBO (Definition and features, Benefits and Limitation) - Process of MBO (5 various steps (Process)),",
+                        "createddate":1702372052287,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "coursecontentid":"210ba9f0-44f5-4c4a-a0ad-9470bc07f4c8",
+      "parentcoursecontentid":null,
+      "name":"UNIT 3",
+      "createddate":1702371576988,
+      "checked":false,
+      "children":[
+         {
+            "coursecontentid":"afbb5dbf-9f1f-40dd-a60d-1fa1dde4c975",
+            "parentcoursecontentid":"210ba9f0-44f5-4c4a-a0ad-9470bc07f4c8",
+            "name":"Organizing",
+            "createddate":1702372208706,
+            "checked":false,
+            "children":[
+               {
+                  "coursecontentid":"a6d48587-add6-4349-9cc8-7c22b8e22797",
+                  "parentcoursecontentid":"afbb5dbf-9f1f-40dd-a60d-1fa1dde4c975",
+                  "name":"Staffing",
+                  "createddate":1702372235037,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"587c8f83-5040-47cc-8481-6a2839665f96",
+                        "parentcoursecontentid":"a6d48587-add6-4349-9cc8-7c22b8e22797",
+                        "name":"Introduction  (Meaning,  Features  of  Staffing, \nImportance of Staffing )( Introduction to recruitment and selection (Meaning  and  Features  (concepts),  Sources  of  recruitment)    -  Selection  (Meaning,  Selection Tests))",
+                        "createddate":1702372351202,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "coursecontentid":"ad68b99c-e4af-44b4-a4a4-a51692d3d23a",
+                  "parentcoursecontentid":"afbb5dbf-9f1f-40dd-a60d-1fa1dde4c975",
+                  "name":"Recruitment and selection",
+                  "createddate":1702372255188,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"a5454471-c4d8-4259-adf4-1cb15aacde54",
+                        "parentcoursecontentid":"ad68b99c-e4af-44b4-a4a4-a51692d3d23a",
+                        "name":"( Introduction(Meaning  of  organizing,  advantages)  -  Factors  affecting  organization structure (Environment, Strategy, Technology, Size, People) - Design of organizational structure \n(Formal and informal organizations and characteristics, Features of good organizational \nstructure)  -  Forms  of  organizational  structure  (Line,  Staff  /  Functional,  Divisional  Matrix, \nCommittee,  Task  force,  Free-Form), )",
+                        "createddate":1702372299548,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "coursecontentid":"04293a7d-0ce5-4fc3-a25a-bbfae0a6eb46",
+      "parentcoursecontentid":null,
+      "name":"UNIT 4",
+      "createddate":1702371577003,
+      "checked":false,
+      "children":[
+         {
+            "coursecontentid":"883766e9-272c-4086-b355-b5cd9a76f1c5",
+            "parentcoursecontentid":"04293a7d-0ce5-4fc3-a25a-bbfae0a6eb46",
+            "name":"Directing",
+            "createddate":1702372407845,
+            "checked":false,
+            "children":[
+               {
+                  "coursecontentid":"3155667e-0fc4-4b79-befb-b9e114000713",
+                  "parentcoursecontentid":"883766e9-272c-4086-b355-b5cd9a76f1c5",
+                  "name":"Motivation",
+                  "createddate":1702372436979,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"7e857496-484d-46cf-bbac-b3e098da527d",
+                        "parentcoursecontentid":"3155667e-0fc4-4b79-befb-b9e114000713",
+                        "name":"(Introduction (Meaning, Nature, Importance, Types of needs) - Theories of motivation  (Maslow’s  Hierarchy  Need  Theory  Herzberg’s  hygiene  theory,  McClelland’s  Need theory))",
+                        "createddate":1702374566880,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "coursecontentid":"4c6e7d50-2cce-47ea-afec-134d0ba92868",
+                  "parentcoursecontentid":"883766e9-272c-4086-b355-b5cd9a76f1c5",
+                  "name":"Leadership",
+                  "createddate":1702372453320,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"dd2f3321-03d2-4a1d-866f-3f6698fbfca1",
+                        "parentcoursecontentid":"4c6e7d50-2cce-47ea-afec-134d0ba92868",
+                        "name":"(Introduction  (Meaning,  Features,  Elements  of  Directing)-  Principles  of  Directing (Principles related to purpose of directing, Principles related to directing process)  – Techniques(Orders and instructions, Follow-up, Standard practices, Behavioral pattern), )",
+                        "createddate":1702372498953,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "coursecontentid":"f711660e-49dc-4232-a097-170524bd32de",
+      "parentcoursecontentid":null,
+      "name":"UNIT 5",
+      "createddate":1702371577019,
+      "checked":false,
+      "children":[
+         {
+            "coursecontentid":"881d859b-b40c-4d10-a0d6-0000e37b24a7",
+            "parentcoursecontentid":"f711660e-49dc-4232-a097-170524bd32de",
+            "name":"Controlling",
+            "createddate":1702372540704,
+            "checked":false,
+            "children":[
+               {
+                  "coursecontentid":"3237d3b8-7b3d-4606-ad44-1d63d8eb1bfa",
+                  "parentcoursecontentid":"881d859b-b40c-4d10-a0d6-0000e37b24a7",
+                  "name":"Communication",
+                  "createddate":1702372562951,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"5478b52c-527d-4de4-a8ce-ca46756c3467",
+                        "parentcoursecontentid":"3237d3b8-7b3d-4606-ad44-1d63d8eb1bfa",
+                        "name":"ntroduction  (Meaning, Communication process, \nSignificance)  -  Forms  of communication - Barriers to effective Communication & Measures for \novercoming barriers (Semantic, Psychological, Organizational, Personal and8 points of \novercoming measures)",
+                        "createddate":1702372674495,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "coursecontentid":"d9376962-cba7-4d39-a68b-f76372b9d2d5",
+                  "parentcoursecontentid":"881d859b-b40c-4d10-a0d6-0000e37b24a7",
+                  "name":"Co-Ordination",
+                  "createddate":1702372594945,
+                  "checked":false,
+                  "children":[
+                     {
+                        "coursecontentid":"f67b93a4-9126-47fb-ba9e-82103e3a58b1",
+                        "parentcoursecontentid":"d9376962-cba7-4d39-a68b-f76372b9d2d5",
+                        "name":"Introduction – Types (Meaning, Importance, Controlling process, Types (Strategic \nand Operational) - Control Areas (13 points of control areas )- Effective control systems (Design \nand Essentials),",
+                        "createddate":1702372626867,
+                        "checked":false,
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+]
